@@ -1,0 +1,16 @@
+*~
+*.DS_Store
+*.pyc
+*.so
+*.pkl
+*.txt
+*.egg-info/
+build/
+dist/
+examples/work/
+paper/figs/
+paper/paper/
+paper/times/
+talks/
+tests/
+work/
